@@ -1,6 +1,7 @@
-# Tide widget for Übersicht
-Tide widget for [übersicht](http://tracesof.net/uebersicht/)
+# Tide widget for übersicht app
 
-Uses matplotlib and a few other python libraries
+Widget to display tide prediction using the os x app [übersicht](http://tracesof.net/uebersicht/).
 
-![screenshot][tide-widget-screenshot.png]
+Based on matplotlib and a few other python libraries.
+
+![screenshot](tide-widget-screenshot.png)
